@@ -12,10 +12,14 @@ High score persistent (highscore.dat)
 Responsive — adapta-se a qualsevol finestra
 
 🎮 Controls
-Tecla	Acció
-← → ↑ ↓	Mou serp (no gira 180°)
-R	Reinicia partida
-ESC	Tanca joc
+## 🎮 Controls
+
+| Tecla     | Acció                  |
+|-----------|------------------------|
+| **← → ↑ ↓** | Mou serp (no gira 180°) |
+| **R**       | Reinicia partida       |
+| **ESC**     | Tanca joc              |
+
 
 🔮 Futur
 ✅ Android APK (Raymob template)
