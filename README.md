@@ -28,10 +28,10 @@ Un sol fitxer snake.c que es compila a un exe estàtic de ~1MB sense dependènci
 L'Snake 1K està sota llicència **Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)**.
 
 > Pots **copiar, modificar, distribuir i fins i tot vendre** derivats del codi sempre que:
-> - **Citis l'autor original**: "Burinat"
+> - **Citis l'autor original**
 > - **Enllaços a la llicència**: https://creativecommons.org/licenses/by/4.0/
 
 
-Fet amb ❤️ i Raylib per [Burinat]
+Fet amb ❤️ i Raylib per [[Burinat](https://github.com/Burinat)]
 
 ⭐ Star si t'ha servit! 🐍
