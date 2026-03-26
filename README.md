@@ -21,7 +21,7 @@ Un sol fitxer snake.c que es compila a un exe estàtic de ~1MB sense dependènci
 | **R**       | Reinicia partida       |
 | **ESC**     | Tanca joc              |
 
-##📄 Llicència
+## 📄 Llicència
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
