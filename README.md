@@ -32,6 +32,6 @@ L'Snake 1K està sota llicència **Creative Commons Reconeixement 4.0 Internacio
 > - **Enllaços a la llicència**: https://creativecommons.org/licenses/by/4.0/
 
 
-Fet amb ❤️ i Raylib per [[Burinat](https://github.com/Burinat)]
+Fet amb ❤️ i Raylib per [Burinat(https://github.com/Burinat)]
 
 ⭐ Star si t'ha servit! 🐍
