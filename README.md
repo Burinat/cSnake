@@ -2,16 +2,17 @@
 Snake clàssic reescrit en C pur amb Raylib.
 Un sol fitxer snake.c que es compila a un exe estàtic de ~1MB sense dependències.
 
-✨ Característiques
-~600 línies de C pur
-Exe estàtic (~1MB) — funciona sense instal·lar res
-Controls precisos amb buffer de direccions (no perd tecles)
-60 FPS amb lògica separada del render
-Acceleració progressiva quan menja
-High score persistent (highscore.dat)
-Responsive — adapta-se a qualsevol finestra
 
-🎮 Controls
+## ✨ Característiques
+
+- **~600 línies** de C pur
+- **Exe estàtic (~8MB)** — funciona sense instal·lar res
+- **Controls precisos** amb buffer de direccions (no perd tecles)
+- **60 FPS** amb lògica separada del render
+- **Acceleració** progressiva quan menja
+- **High score** persistent (`highscore.dat`)
+- **Responsive** — adapta-se a qualsevol finestra
+
 ## 🎮 Controls
 
 | Tecla     | Acció                  |
@@ -20,17 +21,7 @@ Responsive — adapta-se a qualsevol finestra
 | **R**       | Reinicia partida       |
 | **ESC**     | Tanca joc              |
 
-
-🔮 Futur
-✅ Android APK (Raymob template)
-
-⏳ So amb Raylib Audio
-
-⏳ Leaderboard online
-
-⏳ Mapes procedurals
-
-📄 Llicència
+##📄 Llicència
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
