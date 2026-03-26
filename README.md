@@ -1,5 +1,6 @@
-# cSnake
-Snake clàssic reescrit en C pur amb Raylib. Un sol fitxer snake.c que es compila a un exe estàtic de ~1MB sense dependències.
+# cSnake 1K
+Snake clàssic reescrit en C pur amb Raylib.
+Un sol fitxer snake.c que es compila a un exe estàtic de ~1MB sense dependències.
 
 ✨ Característiques
 ~600 línies de C pur
